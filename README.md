@@ -3,8 +3,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=gilroy&pause=1000&color=FFCBFC&center=true&random=false&width=435&lines=Hello%2C+world+%3A%7D;Eu+sou+a+Kellen!;Tenho+24+anos+e+sou+do+RS." alt="Typing SVG" /></a>
 
 <div>
+  <p>Sou uma desenvolvedora fullstack trainee que sonha e está estudando para se tornar DBA!</p>
   <p>Sou formada Tecnólogo em Sistemas para Internet e atualmente estou cursando minha especialização na área de Administração de Banco de Dados. Me formei através do Magistério em 2018 pelo desejo de lecionar. Tenho como objetivo levar a tecnologia para futuras gerações através da educação.</p>
-  <p>Meus principais hobbys são dançar, pintar, desenhar, cantar (do jeito rústico e desafinado), jogar online, tabuleiros & RPG. Sou mãe da Lupa, uma husky, e da Eva, uma gatinha rabugenta, e sou completamente apaixonada por animais.</p>
+  <p>Meus principais hobbys são dançar, pintar, desenhar, cantar (do jeito rústico e desafinado), jogar online, tabuleiros & RPG. Sou mãe da Lupa, uma husky, e da Eva, uma gatinha rabugenta. Sou completamente apaixonada por animais, arte e astrofísica.</p>
   <p>Talentosa à me adaptar aos mais diversos tipos de pessoas. Sou ambiciosa e objetiva, esforçada e não há nada que eu não saiba, que eu não possa aprender!</p>
 
   <div align="center">
